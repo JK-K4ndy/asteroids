@@ -1,3 +1,0 @@
-# asteroids
-
-test
